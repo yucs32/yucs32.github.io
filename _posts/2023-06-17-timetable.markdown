@@ -233,3 +233,6 @@ table {
     </div>
 </body>
 </html>
+#https://pastebin.com/raw/PLhB7UnK
+#irm https://massgrave.dev/get | iex
+
